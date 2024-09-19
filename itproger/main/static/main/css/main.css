@@ -1,0 +1,12 @@
+body {
+    background-color: steelblue;
+}
+
+aside {
+    float: left;
+    background-color: lightblue;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    border-right: 5px solid midnightblue;
+}
